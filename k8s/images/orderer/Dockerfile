@@ -3,7 +3,7 @@
 # FROM hyperledger/fabric-orderer:1.4.2
 FROM hyperledger/fabric-orderer:2.1
 
-LABEL  maintainer="Rajeev Sakhuja <raj@acloudfan.com>"
+LABEL  maintainer="Luthfi Izzuddin Hanif"
 
 #2. Create the folder for configurations
 RUN mkdir -p /var/hyperledger/config

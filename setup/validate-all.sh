@@ -87,5 +87,5 @@ cat /etc/hosts | grep 127.
 
 
 echo "---------------- Done ---------------------"
-echo "To share this report with Raj, use the command  :      ./validate.sh  > validate.txt"
+echo "To share this report, use the command  :      ./validate.sh  > validate.txt"
 echo "Share the the content of file: validate.txt in your question"
